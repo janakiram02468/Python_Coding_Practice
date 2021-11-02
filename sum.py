@@ -4,3 +4,6 @@ addition = a+b
 print(addition)
 substraction = a-b
 print(substraction)
+
+multiplication = a * b
+print(multiplication)
